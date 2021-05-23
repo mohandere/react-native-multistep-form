@@ -28,6 +28,13 @@ ReactNativeMultiStepForm
 ## Example
 Coming soon...
 
+### Work to be DONE
+- Enable TypeScript
+- Add tests
+- Styling
+- Documentation fixes
+- ...
+
 ## License
 
 MIT
