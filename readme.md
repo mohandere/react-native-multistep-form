@@ -10,7 +10,8 @@ This lib uses [react-native-swiper](https://github.com/leecade/react-native-swip
 - Swipable(Based on RN's ScrollView)
 
 ## Demo
-Coming soon...
+
+[Watch Here](https://github.com/mohandere/ReactNativeMultiStepForm/blob/main/demo.mov)
 
 ## APIs
 
