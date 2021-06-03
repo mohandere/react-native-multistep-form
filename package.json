@@ -1,0 +1,33 @@
+{
+  "name": "reactnativemultistepform",
+  "version": "0.0.1",
+  "description": "Multi-step swipe enabled form with stepper(progess bar) for React Native.",
+  "main": "src/index.ts",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.1",
+    "react-native-app-intro-slider": "^4.0.4",
+    "react-native-svg": "^12.1.1",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohandere/ReactNativeMultiStepForm.git"
+  },
+  "keywords": [
+    "react-native",
+    "multi-step-form",
+    "stepper",
+    "swipe"
+  ],
+  "author": "Mohan Dere <deremohan01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohandere/ReactNativeMultiStepForm/issues"
+  },
+  "homepage": "https://github.com/mohandere/ReactNativeMultiStepForm#readme"
+}
